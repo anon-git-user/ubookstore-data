@@ -1,0 +1,14 @@
+Term:
+https://www.ubookstore.com/ubs-vinson/services/AdoptionSearch.Service.ss?c=4487126&catalogNmbr=&department=&isAllowed=true&n=2&school=2&searchAdoptionParameters=true&term=
+{"adoptionSearchParam":{"Type":"term","Options":[{"id":"255","name":"UWB Fall 2019"},{"id":"270","name":"UWB Winter 2020"}]}}
+
+Department:
+https://www.ubookstore.com/ubs-vinson/services/AdoptionSearch.Service.ss?c=4487126&catalogNmbr=&department=&isAllowed=true&n=2&school=2&searchAdoptionParameters=true&term=270
+{"adoptionSearchParam":{"Type":"department","Options":[{"id":"1750","name":"UWB-B ACCT"},{"id":"1751","name":"UWB-B BECN"},{"id":"1752","name":"UWB-B BIO"},{"id":"1753","name":"UWB-B BSKL"},{"id":"1754","name":"UWB-B BUS"},{"id":"1755","name":"UWB-B CE"},{"id":"1756","name":"UWB-B CHEM"},{"id":"1757","name":"UWB-B CORE"},{"id":"1758","name":"UWB-B CUSP"},{"id":"1759","name":"UWB-B EDUC"},{"id":"1760","name":"UWB-B EE"},{"id":"1761","name":"UWB-B ENGR"},{"id":"1762","name":"UWB-B HLTH"},{"id":"1763","name":"UWB-B IMD"},{"id":"1764","name":"UWB-B LEAD"},{"id":"1765","name":"UWB-B MATH"},{"id":"1766","name":"UWB-B ME"},{"id":"1767","name":"UWB-B NURS"},{"id":"1768","name":"UWB-B PHYS"},{"id":"1769","name":"UWB-B SPAN"},{"id":"1770","name":"UWB-B WRIT"},{"id":"513","name":"UWB-BCONSC"},{"id":"517","name":"UWB-BCULST"},{"id":"519","name":"UWB-BCWRIT"},{"id":"1676","name":"UWB-BEARTH"},{"id":"523","name":"UWB-BES"},{"id":"525","name":"UWB-BHS"},{"id":"527","name":"UWB-BIS"},{"id":"1344","name":"UWB-BISAES"},{"id":"529","name":"UWB-BISCLA"},{"id":"530","name":"UWB-BISCP"},{"id":"531","name":"UWB-BISGST"},{"id":"532","name":"UWB-BISGWS"},{"id":"533","name":"UWB-BISIA"},{"id":"534","name":"UWB-BISLEP"},{"id":"535","name":"UWB-BISMCS"},{"id":"536","name":"UWB-BISSEB"},{"id":"537","name":"UWB-BISSKL"},{"id":"538","name":"UWB-BISSTS"},{"id":"539","name":"UWB-BJAPAN"},{"id":"544","name":"UWB-BNURS"},{"id":"546","name":"UWB-BPOLST"},{"id":"548","name":"UWB-BST"},{"id":"1772","name":"UWB-CSS"},{"id":"1773","name":"UWB-CSSSKL"},{"id":"551","name":"UWB-ELCBUS"},{"id":"552","name":"UWB-LEDE"},{"id":"1774","name":"UWB-STMATH"}]}}
+
+Catalog Number:
+https://www.ubookstore.com/ubs-vinson/services/AdoptionSearch.Service.ss?c=4487126&catalogNmbr=&department=1750&isAllowed=true&n=2&school=2&searchAdoptionParameters=true&term=270
+{"adoptionSearchParam":{"Type":"catalogNmbr","Options":[{"id":"503 A","name":"503 A"},{"id":"510 A","name":"510 A"},{"id":"521 A","name":"521 A"},{"id":"563","name":"563"}]}}
+
+Class Number
+https://www.ubookstore.com/ubs-vinson/services/AdoptionSearch.Service.ss?c=4487126&catalogNmbr=503+A&department=1750&isAllowed=true&n=2&school=2&searchAdoptionParameters=true&term=270
